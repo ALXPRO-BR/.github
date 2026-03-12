@@ -1,5 +1,3 @@
----
-
 ## 📩 Contato | ALX Pro
 
 Interessado em automação, infraestrutura ou projetos de software?
